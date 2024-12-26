@@ -73,7 +73,7 @@ body{
   </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tic -Tac -Toe</title>
+<!--     <title>Tic -Tac -Toe</title> -->
 </head>
 <body>
     <div class ="msg-container hide">
